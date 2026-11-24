@@ -1,7 +1,8 @@
 # SUBMISSION — news-image-20261124 ($100, gratis)
 
 - **Repo:** https://github.com/mochhidayah/news-image-20261124 (PUBLIC, dibuat 24 Nov 2026 ~01:11 UTC, setelah opening 24 Nov 00:00 UTC). About: homepage https://make.fun/bounty/news-image-20261124 + topic `makefun` (sudah di-set).
-- **Commit:** 1ff91b3ac6c1acd4dd12dc1ced224b3cebd2ee46
+- **Commit (kode):** 1ff91b3ac6c1acd4dd12dc1ced224b3cebd2ee46
+- **Commit final (HEAD, + SUBMISSION.md):** 52d2ffc72f4644d2cd366f02b7d69a0bd351541c — check diulang di commit ini, hasil sama.
 - **Deadline:** 26 Nov 2026 07:00 WIB (26 Nov 00:00 UTC).
 - **Status:** DIBANGUN + CHECK, BELUM di-submit / di-bundle (koordinator yang bundle + submit).
 
