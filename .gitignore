@@ -1,0 +1,3 @@
+# build + check artefacts, never part of the entry
+out/
+node_modules/
